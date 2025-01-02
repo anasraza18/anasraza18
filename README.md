@@ -1,4 +1,3 @@
-![logo](https://github.com/anasraza18/anasraza18/blob/main/SIMPLE%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Anas Raza</h1>
 <h3 align="center">A passionate Application developer from Pakistan</h3>
 
